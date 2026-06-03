@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 import pickle
 from preprocessing import preprocess_text, preprocess_review_text
 
